@@ -4,11 +4,8 @@ authors:
 - family-names: "YOUR_NAME_HERE"
   given-names: "YOUR_NAME_HERE"
   orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "Statistical-Analysis-of-Diet-Types"
+title: "A Statistical Analysis to Develop Machine Learning Models: Prediction of User Diet Type"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
-date-released: 2023-04-12
+doi: 10.13140/RG.2.2.12231.37287
+date-released: 2023-04-11
 url: "https://github.com/AkshitTayade/Statistical-Analysis-of-Diet-Types"
