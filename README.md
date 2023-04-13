@@ -17,5 +17,14 @@ After exploring our data, we used non-parametric tests to determine if the means
 
 Finally, we tested the accuracy of our model on a separate test set and achieved an accuracy rate of 85.967%. The success of our analysis was due in large part to the use of exploratory data analysis, which helped us identify important trends and patterns in our data set and allowed us to develop a more accurate and reliable model.
 
+Ad-hoc tests involved:
+1. Shapiro-Wilk Test
+2. Comparing Two Samples
+3. One way ANOVA
+4. Chi-Square Test
+5. Feature Selection
+6. Logistic Regression
+7. Cross Validation & Bootstrapping
+
 ## Conclusion
 The personalized diet advice system developed in this research paper provides an effective solution for people looking to adopt a healthier lifestyle by guiding them towards dietary choices that align with their preferences and goals. By leveraging machine learning algorithms, the system provides accurate and personalized recommendations that can help individuals make informed decisions about their diet and overall health.
