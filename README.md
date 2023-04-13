@@ -1,11 +1,11 @@
 ## Statistical-Analysis-of-Diet-Types
-In this project, we aim to develop a machine learning model to predict a user's diet type based on various features. With the growing trend of fitness application development and the increasing number of people adopting independent workout routines, there is a need for healthy nutrition plans to maintain overall well-being.
+<p align="justify"> In this project, we aim to develop a machine learning model to predict a user's diet type based on various features. With the growing trend of fitness application development and the increasing number of people adopting independent workout routines, there is a need for healthy nutrition plans to maintain overall well-being.
 
 We utilized the Diet Recommendation dataset, which contains parameters such as age, height, weight, BMI, BMR, exercise lifestyle, and calories consumed, to determine the corresponding diet type. The paper conducts both parametric and non-parametric tests to analyze the dataset. One-way ANOVA analysis is used to estimate whether means are the same across multiple samples, and an ad hoc analysis is applied to identify which subset groups have different means. Additionally, the Chi-square test was performed to check the dependency between categorical features.
 
 Finally, the best features are selected by using Fisher score and forward and backward elimination to fit the machine learning model. The AIC and BIC criteria are used for comparison purposes.
 
-Our goal is to provide accurate and reliable recommendations that align with an individual's dietary preferences and goals. Utilizing statistical analysis and machine learning techniques, the findings indicate that the personalized diet advice system offers feasible and precise dietary recommendations based on the user's input data.
+Our goal is to provide accurate and reliable recommendations that align with an individual's dietary preferences and goals. Utilizing statistical analysis and machine learning techniques, the findings indicate that the personalized diet advice system offers feasible and precise dietary recommendations based on the user's input data.</p>
 
 ## Data
 The Diet Recommendation dataset is used in this project, which contains parameters such as age, height, weight, BMI, BMR, exercise lifestyle, and calories consumed. The dataset is publicly available and can be accessed through the UCI Machine Learning Repository.
